@@ -125,6 +125,11 @@ margin-top: 150px;
   font-size: 2.4rem;
 }
 
+/******************* about ******************/
+.help__text {
+  font-size: 20px;
+}
+
 /******************* footer ******************/
 
 .footer {
